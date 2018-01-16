@@ -10,3 +10,4 @@ Formaly of the IDF, the [Birmingham-Southern College football team](http://www.b
 
 [LinkedIn](https://www.linkedin.com/in/erez-kaminski-a155076b/)
 
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
