@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Erez Kaminski
+Boston based Programmer, Athlete, and Technology Evangelist 
 
-You can use the [editor on GitHub](https://github.com/ErezKaminski/ErezKaminski.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Twitter](https://twitter.com/erez_kaminski)
+
+[LinkedIn](https://www.linkedin.com/in/erez-kaminski-a155076b/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
