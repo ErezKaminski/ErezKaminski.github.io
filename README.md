@@ -1,5 +1,5 @@
 ## Erez Kaminski
-Boston Based Programmer, Athlete, and Technology Evangelist 
+### Boston Based Programmer, Athlete, and Technology Evangelist 
 
 I am a Wolfram Technology Specalist at [Wolfram Research](https://www.wolfram.com), an amatur mountaineer and a **huge** book worm.
 
