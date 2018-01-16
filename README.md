@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## Erez Kaminski
 ### Boston Based Programmer, Athlete, and Technology Evangelist 
